@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Running the Program
 
 In a terminal tab, start the server.js file, which runs on port 5000.
